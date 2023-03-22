@@ -6,3 +6,7 @@ general purpose, extendable hexadecimal editing utility
 * extendable
 * adaptable
 * built with ease of use in mind
+
+-------- misc --------
+
+* avaliable on windows store
