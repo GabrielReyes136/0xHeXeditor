@@ -10,3 +10,4 @@ general purpose, extendable hexadecimal editing utility
 -------- misc --------
 
 * avaliable on windows store
+* avaliable on PSP and PSVITA
